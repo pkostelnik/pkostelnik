@@ -1,14 +1,5 @@
-<h1 align="center">Hi 👋, I'm Pawel Kostelnik</h1>
-<h3 align="center">A upcoming Microsoft Cloud Solution Architect from Germany</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pkostelnik&show_icons=true&locale=en&layout=compact" alt="pkostelnik" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pkostelnik&show_icons=true&locale=en" alt="pkostelnik" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pkostelnik&" alt="pkostelnik" /></p>
-
-
-### Hi there 👋
+# Hi 👋, I'm Pawel Kostelnik
+### <h3 align="center">A upcoming Microsoft Cloud Solution Architect from Germany
 
 [![pkostelnik's github stats](https://github-readme-stats.vercel.app/api?username=pkostelnik&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp; [![GitHub Streak](https://streak-stats.demolab.com?user=pkostelnik&theme=chartreuse-dark)](https://git.io/streak-stats)
 
