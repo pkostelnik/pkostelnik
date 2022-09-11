@@ -17,5 +17,4 @@ Here are some ideas to get you started:
 - ![Profile views](https://gpvc.arturio.dev/pkostelnik)
 - ![GitHub followers](https://img.shields.io/github/followers/pkostelnik?style=plastic)
 - ![Twitch Status](https://img.shields.io/twitch/status/sulvain?style=plastic)
-- ![Security Headers](https://img.shields.io/security-headers?style=plastic&url=https%3A%2F%2Fsnat.tech)
-- ![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Fsnat.tech)
+- ![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Fsnat.tech) &nbsp; ![Security Headers](https://img.shields.io/security-headers?style=plastic&url=https%3A%2F%2Fsnat.tech)
