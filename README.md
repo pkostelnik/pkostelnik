@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![pkostelnik's github stats](https://github-readme-stats.vercel.app/api?username=pkostelnik)](https://github.com/anuraghazra/github-readme-stats)          [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkostelnik)](https://github.com/anuraghazra/github-readme-stats)
+[![pkostelnik's github stats](https://github-readme-stats.vercel.app/api?username=pkostelnik)](https://github.com/anuraghazra/github-readme-stats) &emsp [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkostelnik)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
