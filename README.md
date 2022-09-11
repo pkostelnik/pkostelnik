@@ -1,21 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pawel Kostelnik</h1>
 <h3 align="center">A upcoming Microsoft Cloud Solution Architect from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pkostelnik&label=Profile%20views&color=0e75b6&style=flat" alt="pkostelnik" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pkostelnik" alt="pkostelnik" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/tsiwo" target="blank"><img src="https://img.shields.io/twitter/follow/tsiwo?logo=twitter&style=for-the-badge" alt="tsiwo" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/pkostelnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pkostelnik" height="30" width="40" /></a>
-<a href="https://twitter.com/tsiwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tsiwo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pkostelnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pkostelnik" height="30" width="40" /></a>
-<a href="https://fb.com/pawelkostelnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pawelkostelnik" height="30" width="40" /></a>
-<a href="https://medium.com/@pkostelnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pkostelnik" height="30" width="40" /></a>
-</p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pkostelnik&show_icons=true&locale=en&layout=compact" alt="pkostelnik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pkostelnik&show_icons=true&locale=en" alt="pkostelnik" /></p>
@@ -43,3 +28,11 @@ Here are some ideas to get you started:
 - ![GitHub followers](https://img.shields.io/github/followers/pkostelnik?style=plastic)
 - ![Twitch Status](https://img.shields.io/twitch/status/sulvain?style=plastic)
 - ![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Fsnat.tech) &nbsp; ![Security Headers](https://img.shields.io/security-headers?style=plastic&url=https%3A%2F%2Fsnat.tech)
+###Connect with me:
+<p align="left">
+<a href="https://dev.to/pkostelnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pkostelnik" height="30" width="40" /></a>
+<a href="https://twitter.com/tsiwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tsiwo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pkostelnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pkostelnik" height="30" width="40" /></a>
+<a href="https://fb.com/pawelkostelnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pawelkostelnik" height="30" width="40" /></a>
+<a href="https://medium.com/@pkostelnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@pkostelnik" height="30" width="40" /></a>
+</p>
