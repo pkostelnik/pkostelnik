@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - ![GitHub followers](https://img.shields.io/github/followers/pkostelnik?style=plastic)
 - ![Twitch Status](https://img.shields.io/twitch/status/sulvain?style=plastic)
 - ![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Fsnat.tech) &nbsp; ![Security Headers](https://img.shields.io/security-headers?style=plastic&url=https%3A%2F%2Fsnat.tech)
-###Connect with me:
+### Connect with me:
 <p align="left">
 <a href="https://dev.to/pkostelnik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pkostelnik" height="30" width="40" /></a>
 <a href="https://twitter.com/tsiwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tsiwo" height="30" width="40" /></a>
