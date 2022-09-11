@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![pkostelnik's github stats](https://github-readme-stats.vercel.app/api?username=pkostelnik&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![pkostelnik's github stats](https://github-readme-stats.vercel.app/api?username=pkostelnik&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![GitHub Streak](https://streak-stats.demolab.com?user=pkostelnik&theme=chartreuse-dark)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=pkostelnik&theme=chartreuse-dark)](https://git.io/streak-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkostelnik&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkostelnik&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
