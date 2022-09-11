@@ -2,6 +2,8 @@
 
 [![pkostelnik's github stats](https://github-readme-stats.vercel.app/api?username=pkostelnik&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkostelnik&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=pkostelnik&theme=chartreuse-dark)](https://git.io/streak-stats)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ![Profile views](https://gpvc.arturio.dev/pkostelnik)
+- ![GitHub followers](https://img.shields.io/github/followers/pkostelnik?style=plastic)
+- ![Twitch Status](https://img.shields.io/twitch/status/sulvain?style=plastic)
+- ![Security Headers](https://img.shields.io/security-headers?style=plastic&url=https%3A%2F%2Fsnat.tech)
+- ![Website](https://img.shields.io/website?down_color=red&down_message=offline&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Fsnat.tech)
