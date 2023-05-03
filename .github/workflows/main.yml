@@ -1,6 +1,0 @@
-  name: Analyze HTTP response headers
-  uses: iamazeem/security-headers-action@v1
-  id: analyze
-  with:
-    api-key: eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWdpb24iOiJldSIsImp0aSI6ImRHZVBHQmNRaW9xcCJ9.YSZpZ8dPH5VJme5ZP4RntGYZ5ZQuo34xnRulwgWdzPc
-#    domain-or-url: securityheaders.com
