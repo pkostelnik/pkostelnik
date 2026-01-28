@@ -4,14 +4,14 @@
 [![pkostelnik's github stats](https://github-readme-stats.vercel.app/api?username=pkostelnik&theme=chartreuse-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) &nbsp; [![GitHub Streak](https://streak-stats.demolab.com?user=pkostelnik&theme=highcontrast)](https://git.io/streak-stats)
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkostelnik&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
  --
- ⚡ Fun facts: ![Profile views](https://gpvc.arturio.dev/pkostelnik) ![GitHub followers](https://img.shields.io/github/followers/pkostelnik?style=plastic) ![Twitch Status](https://img.shields.io/twitch/status/sulvain?style=plastic)
+ ⚡ Fun facts: ![GitHub followers](https://img.shields.io/github/followers/pkostelnik?style=plastic) ![Twitch Status](https://img.shields.io/twitch/status/sulvain?style=plastic)
  --
  🏠 My Website: 
  - https://snat.tech ![Website snat.tech](https://img.shields.io/website?down_color=red&down_message=offline&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Fsnat.tech)
  - https://snat.space ![Website snat.space](https://img.shields.io/website?down_color=red&down_message=offline&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Fsnat.space)
  - https://snat.ovh ![Website snt.ovh](https://img.shields.io/website?down_color=red&down_message=offline&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Fsnat.ovh)
  - https://voicelab.ovh ![Website voicelab.ovh](https://img.shields.io/website?down_color=red&down_message=offline&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Fvoicelab.ovh)
-#### Vibecoded test / PoC WebApp -> DiveLog <-
+#### Vibe coded test / PoC WebApp -> DiveLog <-
  - https://divelog.copilot.ovh ![Website divelog.copilot.ovh](https://img.shields.io/website?down_color=red&down_message=offline&style=plastic&up_color=green&up_message=online&url=https%3A%2F%2Fdivelog.copilot.ovh)
 
 # 💻 Tech Stack:
