@@ -1,7 +1,7 @@
 # <p align="center">Hi 👋, I'm Pawel Kostelnik</p>
 ### <p align="center">An MCT and Microsoft Cloud Solution Architect</p>
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=pkostelnik&theme=chartreuse-dark)](https://github.com/stats-organization/github-stats-extended) &nbsp; [![pkostelnik's github stats](https://github-stats-extended.vercel.app/api?username=pkostelnik&theme=chartreuse-dark&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
+[![pkostelnik's github stats](https://github-stats-extended.vercel.app/api?username=pkostelnik&theme=chartreuse-dark&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
 [![GitHub Streak](https://streak-stats.demolab.com?user=pkostelnik&theme=highcontrast)](https://git.io/streak-stats)
  --
  ⚡ Fun facts: ![GitHub followers](https://img.shields.io/github/followers/pkostelnik?style=plastic) ![Twitch Status](https://img.shields.io/twitch/status/sulvain?style=plastic)
